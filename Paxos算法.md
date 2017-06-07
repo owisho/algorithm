@@ -32,10 +32,13 @@ B3(β)：β中每一次选举B，如果法定人数中的牧师在之前的选�
 
 引理1.1       
 
-![Image text](https://github.com/owisho/algorithm/blob/master/pic/Paxos1.jpg)    
+![Image text](https://github.com/owisho/algorithm/blob/master/pic/Paxos1.jpg)      
+
 引理1.2       
 
-![Image text](https://github.com/owisho/algorithm/blob/master/pic/Paxos2.jpg)     
+![Image text](https://github.com/owisho/algorithm/blob/master/pic/Paxos2.jpg)       
+
 引理1.3     
 
-![Image text](https://github.com/owisho/algorithm/blob/master/pic/Paxos3.jpg)     
+![Image text](https://github.com/owisho/algorithm/blob/master/pic/Paxos3.jpg)        
+
