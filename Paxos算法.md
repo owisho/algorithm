@@ -28,4 +28,10 @@ B_bal 投票编号  
 B1(β)：β中每个选举都有一个独一无二的选举编号。    
 B2(β)：β中每两个选举至少有一个共同的牧师。    
 B3(β)：β中每一次选举B，如果法定人数中的牧师在之前的选举中投了赞成票（这些选举构成一个集合），    
-那么本次选举B所对应的法律和上述选举集合中最近一次选举所对应的法律相一致。    
+那么本次选举B所对应的法律和上述选举集合中最近一次选举所对应的法律相一致。    
+引理1.1    
+![Image text](https://github.com/owisho/algorithm/blob/master/pic/Paxos1.jpg)    
+引理1.2    
+![Image text](https://github.com/owisho/algorithm/blob/master/pic/Paxos2.jpg)     
+引理1.3    
+![Image text](https://github.com/owisho/algorithm/blob/master/pic/Paxos3.jpg)     
